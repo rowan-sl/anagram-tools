@@ -1,5 +1,5 @@
 # anagram-tools
-![GitHub last commit](https://img.shields.io/github/last-commit/rowan-sl/anagram-tools) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rowan-sl/anagram-tools) ![GitHub issues](https://img.shields.io/github/issues-raw/rowan-sl/anagram-tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/rowan-sl/anagram-tools) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rowan-sl/anagram-tools) ![GitHub issues](https://img.shields.io/github/issues-raw/rowan-sl/anagram-tools) ![GitHub top language](https://img.shields.io/github/languages/top/rowan-sl/anagram-tools) ![  ¯\(◉‿◉)/¯  ](https://img.shields.io/badge/code%20quality-C%2B%2B-ff69b4)
 
 Tools for finding anagrams
 
